@@ -13,7 +13,17 @@
 [Software Development](fields/software/README.md)
 
 
-## RESOURCES BY ROADMAP
+## Resources by Robotics Road Map
 
 
 [Foundation of Robotics](map/foundation/README.md)
+[Specialized Robotics](specialized/)
+
+
+## Resources by Specialization
+
+
+
+
+
+ >Maintained by **Aurora Robotics**. Third-party materials remain the property of their creators unless explicitly stated otherwise.
