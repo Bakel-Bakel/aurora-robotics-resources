@@ -17,10 +17,22 @@
 
 
 [Foundation of Robotics](map/foundation/README.md)
+
 [Specialized Robotics](specialized/)
 
 
 ## Resources by Specialization
+
+
+Medical Robotics
+Marine Robotics
+Space Exploration
+Defense & Security
+Logistics & Warehousing
+Service Robots
+Research & Education
+Manufacturing & Industry
+Agriculture	
 
 
 
