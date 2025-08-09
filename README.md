@@ -27,8 +27,9 @@
 
 ## Resources by Specialization
 
+[Aerial Robotics](specialized/aerial/README.md)
 
-Medical Robotics
+[Medical Robotics](specialized/medical/README.md)
 
 [Advanced Robotics](specialized/advanced/README.md)
 
