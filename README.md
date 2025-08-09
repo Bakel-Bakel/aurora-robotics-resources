@@ -10,7 +10,9 @@
 
 [AI and ML](fields/AI-and-ML/README.md)
 
-[Software Development](fields/software/README.md)
+[Computer Science/Software Development](fields/software/README.md)
+
+[Robotics Core](fields/robotics-core/README.md)
 
 
 ## Resources by Robotics Road Map
