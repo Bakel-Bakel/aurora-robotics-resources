@@ -18,7 +18,9 @@
 ## Resources by Robotics Road Map
 
 
-[Foundation of Robotics](map/foundation/README.md)
+[Foundation of Robotics](maps/foundation/README.md)
+
+[Dynamics and Control](maps/dynamics%20and%20control/README.md)
 
 [Specialized Robotics](specialized/)
 
