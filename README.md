@@ -1,4 +1,5 @@
 
+![My project screenshot](docs/Aurora%20Banner.png)
 
 ## Resources by fields in Robotics
 
