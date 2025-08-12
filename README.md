@@ -1,6 +1,5 @@
 
-<!-- ![My project screenshot](docs/logo.png) -->
-
+![My project screenshot](docs/logo.png) 
 
 
 ## Resources by fields in Robotics
