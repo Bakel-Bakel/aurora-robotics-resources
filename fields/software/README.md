@@ -7,3 +7,7 @@
 |ROS2 Jazzy Jalisco Tutorials|Aleksandar Haber PhD|Youtube|[link](https://www.youtube.com/playlist?list=PLO89phzZmnHgTtr2uncyQN5hNMopUQa3e)|
 |Getting Started with Simulink|MATLAB|Youtube|[link](https://www.youtube.com/playlist?list=PL484BA2AD3AE4C2D0)|
 |MATLAB Crash Course for Beginners|freeCodeCamp|Youtube|[link](https://www.youtube.com/playlist?list=PL484BA2AD3AE4C2D0)|
+|Programming Abstractions|Stanford University|SEE Website|[link](https://see.stanford.edu/Course/CS106B)|
+|Programming Paradigms|Stanford University|SEE Website|[link](https://see.stanford.edu/Course/CS107)|
+|Programming Methodology|Stanford University|SEE Website|[link](https://see.stanford.edu/Course/CS106A)|
+
