@@ -1,6 +1,11 @@
 
 ![My project screenshot](docs/Aurora%20Banner.png)
 
+### Register For Aurora Robotics Training
+
+[![My Button](https://img.shields.io/badge/Register%20Here-green?style=for-the-badge)](https://www.regaliamarine.com/aurora-robotics-training)
+
+
 ## Resources by fields in Robotics
 
 [Maths and Physics](fields/maths&phys/README.md)
