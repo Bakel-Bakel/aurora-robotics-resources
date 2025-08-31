@@ -13,10 +13,9 @@ Robotics Learning https://www.learnroboticsandai.com/post/what-is-robot-learning
 
 
 
-Advanced Cognitive Robotics https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk
 
 
-Modern Robotics https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
+
 
 Mathematics for Robotics https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH
 
