@@ -41,9 +41,9 @@
 
 [Advanced Robotics](specialized/advanced/README.md)
 
-[Marine Robotics]()
+[Marine Robotics](specialized/marine/README.md)
 
-Space Exploration
+[Space Exploration](specialized/space/README.md)
 
 Defense & Security
 
