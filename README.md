@@ -3,7 +3,7 @@
 
 ### Register For Aurora Robotics Training
 
-[![My Button](https://img.shields.io/badge/Register%20Here-green?style=for-the-badge)](https://www.regaliamarine.com/aurora-robotics-training)
+[![My Button](https://img.shields.io/badge/Register%20Here-green?style=for-the-badge)](https://www.aurora-robotics.com/core-2)
 
 
 ## Resources by fields in Robotics
